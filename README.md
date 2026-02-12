@@ -27,41 +27,41 @@ Imported CSV into MySQL as VARCHAR fields.
 Used a separate cleaned table to preserve raw data.
 
 3️⃣ Data Standardization
-> Standardized gender values (M, male → Male)
-> Standardized country names (US, United States → USA)
-> Converted product names to uppercase
-> Removed invalid ages (negative, unknown)
-> Removed negative and NULL prices
-> Removed zero and negative quantities
-> Converted string dates into proper DATE format
-> Created numeric columns for price, quantity, and age
+>> Standardized gender values (M, male → Male)
+>> Standardized country names (US, United States → USA)
+>> Converted product names to uppercase
+>> Removed invalid ages (negative, unknown)
+>> Removed negative and NULL prices
+>> Removed zero and negative quantities
+>> Converted string dates into proper DATE format
+>> Created numeric columns for price, quantity, and age
 
 📊 Business Questions Answered:
 
-> Highest revenue-generating product
-> Average order value
-> Country with most orders
-> Most used payment method
-> Repeating customers (more than 3 orders)
-> Monthly sales trend
-> Highest spending age group
+>> Highest revenue-generating product
+>> Average order value
+>> Country with most orders
+>> Most used payment method
+>> Repeating customers (more than 3 orders)
+>> Monthly sales trend
+>> Highest spending age group
 
 📈 Key SQL Concepts Used
 
-> GROUP BY
-> HAVING
-> CASE statements
-> Subqueries
-> Date formatting
-> Aggregate functions (SUM, AVG, COUNT)
+>> GROUP BY
+>> HAVING
+>> CASE statements
+>> Subqueries
+>> Date formatting
+>> Aggregate functions (SUM, AVG, COUNT)
 
 💼 Business Impact
 
-> This project demonstrates:
-> Real-world data cleaning skills
-> Data transformation best practices
-> Business-driven analysis
-> Analytical thinking
+>> This project demonstrates:
+>> Real-world data cleaning skills
+>> Data transformation best practices
+>> Business-driven analysis
+>> Analytical thinking
 > Structured SQL querying
 > Data preparation for dashboard visualization (Power BI)
 
