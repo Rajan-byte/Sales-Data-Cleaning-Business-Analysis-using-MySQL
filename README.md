@@ -27,43 +27,43 @@ Imported CSV into MySQL as VARCHAR fields.
 Used a separate cleaned table to preserve raw data.
 
 3️⃣ Data Standardization
->> Standardized gender values (M, male → Male)
->> Standardized country names (US, United States → USA)
->> Converted product names to uppercase
->> Removed invalid ages (negative, unknown)
->> Removed negative and NULL prices
->> Removed zero and negative quantities
->> Converted string dates into proper DATE format
->> Created numeric columns for price, quantity, and age
+1. Standardized gender values (M, male → Male)
+2. Standardized country names (US, United States → USA)
+3. Converted product names to uppercase
+4. Removed invalid ages (negative, unknown)
+5. Removed negative and NULL prices
+6. Removed zero and negative quantities
+7. Converted string dates into proper DATE format
+8. Created numeric columns for price, quantity, and age
 
 📊 Business Questions Answered:
 
->> Highest revenue-generating product
->> Average order value
->> Country with most orders
->> Most used payment method
->> Repeating customers (more than 3 orders)
->> Monthly sales trend
->> Highest spending age group
+1. Highest revenue-generating product
+2. Average order value
+3. Country with most orders
+4. Most used payment method
+5. Repeating customers (more than 3 orders)
+6. Monthly sales trend
+7. Highest spending age group
 
 📈 Key SQL Concepts Used
 
->> GROUP BY
->> HAVING
->> CASE statements
->> Subqueries
->> Date formatting
->> Aggregate functions (SUM, AVG, COUNT)
+1. GROUP BY
+2. HAVING
+3. CASE statements
+4. Subqueries
+5. Date formatting
+6. Aggregate functions (SUM, AVG, COUNT)
 
 💼 Business Impact
 
->> This project demonstrates:
->> Real-world data cleaning skills
->> Data transformation best practices
->> Business-driven analysis
->> Analytical thinking
-> Structured SQL querying
-> Data preparation for dashboard visualization (Power BI)
+1. This project demonstrates:
+2. Real-world data cleaning skills
+3. Data transformation best practices
+4. Business-driven analysis
+5. Analytical thinking
+6. Structured SQL querying
+7. Data preparation for dashboard visualization (Power BI)
 
 🚀 Next Step
->> This cleaned dataset will be used to build an interactive Power BI dashboard with KPI tracking and business insights visualization.
+#This cleaned dataset will be used to build an interactive Power BI dashboard with KPI tracking and business insights visualization.
