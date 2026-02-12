@@ -1,0 +1,801 @@
+order_id,customer_id,age,gender,product_name,price,quantity,order_date,country,payment_method
+1.0,,-1,Female,Phone,259,,13/40/2023,United States,Debit
+2.0,,unknown,Female,Headphones,,0.0,2023-12-16,us,Debit
+3.0,,24,F,Laptop,,-2.0,13/40/2023,Nepal,
+4.0,C97,,,laptop,-99,1.0,2023-11-09,us,Credit Card
+5.0,,unknown,,,-99,-2.0,2022-08-03,,Credit Card
+6.0,,-1,Female,Headphones,,0.0,2023-12-03,,Credit Card
+7.0,,,Male,Phone,,,2023-02-10,,credit card
+8.0,C36,,,laptop,N/A,0.0,2022-05-22,USA,Credit Card
+9.0,,unknown,female,Laptop,N/A,,2023-06-26,India,Credit Card
+10.0,,,,Tablet,,0.0,13/40/2023,,Cash
+11.0,C196,50,,Tablet,-99,-2.0,2024-02-20,,
+12.0,,49,Male,Tablet,-99,0.0,2024-06-18,USA,Credit Card
+13.0,,-1,Female,PHONE,-99,,2022-08-05,,Debit
+14.0,,,F,laptop,974,0.0,2022-03-07,India,
+15.0,C57,22,Female,Laptop,,0.0,2022-10-13,United States,
+16.0,,-1,F,,-99,1.0,2023-11-06,Nepal,credit card
+17.0,C187,61,Male,Headphones,744,0.0,2022-07-14,United States,credit card
+18.0,C119,unknown,female,Laptop,153,0.0,2022-06-20,Nepal,Debit
+19.0,C16,42,F,Tablet,,,2022-06-08,United States,Credit Card
+20.0,C139,,Male,Laptop,N/A,0.0,2022-02-28,USA,Debit
+21.0,,unknown,Male,laptop,554,5.0,2023-03-06,India,
+22.0,C67,,Female,Tablet,-99,,2022-11-20,USA,Credit Card
+23.0,C145,-1,female,Tablet,,0.0,2023-01-14,Nepal,
+24.0,,51,,,,0.0,2022-09-28,USA,
+25.0,,,Female,PHONE,,,2022-09-15,,Credit Card
+26.0,,20,M,,,,2023-07-19,India,Credit Card
+27.0,C177,52,M,laptop,-99,0.0,2022-02-12,,Credit Card
+28.0,,33,M,,N/A,0.0,2022-08-31,,Debit
+29.0,C7,,F,,-99,0.0,2024-03-17,Nepal,Credit Card
+30.0,C57,unknown,M,Tablet,-99,0.0,2023-02-13,,Credit Card
+31.0,,unknown,,,,1.0,2024-06-17,United States,
+32.0,C68,unknown,M,PHONE,N/A,5.0,2023-01-30,United States,Cash
+,C112,-1,M,Headphones,,-2.0,2023-11-11,,Cash
+34.0,,unknown,,Tablet,-99,,2023-11-12,,Debit
+35.0,,53,M,Tablet,N/A,-2.0,2023-04-22,,Debit
+36.0,C189,60,M,laptop,,0.0,2023-11-20,,Debit
+37.0,C12,48,F,Headphones,-99,,2023-02-14,,Credit Card
+38.0,C198,unknown,Female,Phone,N/A,0.0,2024-05-18,United States,credit card
+39.0,,unknown,female,,N/A,,2022-06-12,Nepal,credit card
+40.0,,unknown,,Phone,N/A,-2.0,2022-08-29,us,
+41.0,C39,-1,,Phone,N/A,-2.0,2023-07-10,USA,Debit
+42.0,,62,female,Headphones,1026,-2.0,2024-02-11,,credit card
+43.0,,-1,F,Phone,N/A,4.0,2023-02-03,,credit card
+44.0,C120,57,F,laptop,1205,,2022-05-19,United States,Credit Card
+45.0,C84,,M,,,-2.0,13/40/2023,USA,
+46.0,C90,59,,Laptop,-99,2.0,2023-09-29,United States,credit card
+47.0,C145,,M,Phone,1290,-2.0,2022-04-21,us,
+48.0,,-1,Male,laptop,-99,-2.0,2024-05-20,,Credit Card
+49.0,C145,unknown,,Tablet,,,2024-04-22,Nepal,Cash
+50.0,,unknown,Female,PHONE,,,2023-04-22,,
+51.0,C63,unknown,Female,,N/A,3.0,2023-05-22,United States,credit card
+52.0,,,female,Laptop,-99,0.0,2024-01-08,India,Debit
+53.0,,unknown,Male,Laptop,-99,0.0,2022-11-10,us,credit card
+54.0,,,M,PHONE,,-2.0,2022-08-25,United States,Cash
+55.0,,-1,Female,PHONE,,-2.0,2022-04-13,us,Debit
+56.0,C78,-1,M,Laptop,,,2022-04-16,India,Cash
+57.0,,29,M,,1028,,13/40/2023,,Credit Card
+58.0,,-1,Male,laptop,-99,,2023-04-07,us,
+59.0,,57,female,PHONE,-99,-2.0,13/40/2023,United States,Debit
+60.0,C41,unknown,,laptop,,0.0,2022-10-23,,credit card
+61.0,,-1,F,Laptop,-99,-2.0,2024-04-26,USA,Debit
+62.0,,,F,Laptop,,-2.0,2023-05-28,Nepal,Credit Card
+63.0,,,Male,Laptop,518,3.0,2024-02-21,Nepal,
+64.0,C72,unknown,,,1057,-2.0,2023-02-23,,Credit Card
+65.0,,unknown,M,PHONE,870,4.0,2022-11-19,USA,credit card
+66.0,,unknown,F,Laptop,,,2023-10-03,USA,Debit
+67.0,,unknown,Male,Laptop,-99,-2.0,13/40/2023,Nepal,Credit Card
+68.0,,-1,F,PHONE,,,2023-04-29,India,Debit
+69.0,,-1,Male,Tablet,,-2.0,13/40/2023,,Cash
+70.0,,-1,F,laptop,,,2023-04-12,,Debit
+71.0,,-1,F,Laptop,N/A,,2023-11-11,,Debit
+72.0,C10,,Male,,951,,2022-01-16,Nepal,Debit
+73.0,,unknown,,Laptop,N/A,,2024-06-12,India,Credit Card
+74.0,,32,F,Laptop,1347,0.0,2023-12-12,USA,Credit Card
+75.0,,,F,Phone,N/A,0.0,2022-06-24,India,credit card
+76.0,,-1,Female,Headphones,,-2.0,13/40/2023,,credit card
+77.0,,28,F,Tablet,,-2.0,2023-04-13,United States,credit card
+78.0,C28,,female,Tablet,,,13/40/2023,,Credit Card
+79.0,,-1,female,,-99,-2.0,2023-11-26,,Debit
+80.0,,,F,Laptop,,2.0,2022-10-30,Nepal,Debit
+81.0,,,Female,Tablet,,3.0,2023-04-25,United States,Debit
+82.0,,,Male,,858,3.0,2023-04-11,,Cash
+83.0,,-1,F,Laptop,,0.0,13/40/2023,,credit card
+84.0,,44,Female,Laptop,,4.0,2022-04-10,India,Debit
+85.0,,unknown,female,PHONE,N/A,,2023-09-23,us,Credit Card
+86.0,,-1,M,Laptop,,-2.0,2022-03-04,United States,Credit Card
+87.0,C117,-1,,PHONE,1272,-2.0,2022-09-07,,
+88.0,,-1,Female,Tablet,352,0.0,2022-05-14,,Debit
+89.0,C7,,Female,laptop,713,-2.0,2022-02-23,Nepal,
+90.0,,,female,laptop,N/A,0.0,13/40/2023,,
+91.0,C165,unknown,F,Headphones,1455,,2022-03-17,us,
+92.0,,,F,laptop,,,2022-04-12,USA,
+93.0,,-1,F,Tablet,N/A,4.0,2022-11-17,,Cash
+94.0,,48,Male,,224,4.0,2024-02-02,,Debit
+95.0,,,,Laptop,,4.0,2022-10-22,us,Credit Card
+96.0,C55,unknown,Female,,,-2.0,2022-04-28,India,Debit
+97.0,,57,female,PHONE,,0.0,2022-10-07,us,Cash
+98.0,C47,unknown,Male,Phone,1346,0.0,2023-01-21,us,Debit
+99.0,,67,Male,Phone,372,-2.0,2023-03-30,Nepal,
+100.0,C70,66,M,Headphones,,,2023-06-24,USA,Debit
+101.0,C154,-1,M,Phone,,-2.0,13/40/2023,,credit card
+102.0,,-1,female,laptop,,,2024-06-01,Nepal,Credit Card
+103.0,,unknown,female,Headphones,N/A,3.0,13/40/2023,us,Debit
+104.0,,,Male,Headphones,-99,,13/40/2023,,Cash
+105.0,,-1,Male,laptop,1346,0.0,2024-03-05,,Debit
+106.0,,-1,female,Phone,1392,,2023-04-21,,
+107.0,,,,Tablet,N/A,,2023-03-29,,Cash
+108.0,,,F,Headphones,127,-2.0,2022-03-20,,Credit Card
+109.0,,47,F,,-99,,2023-05-29,USA,credit card
+110.0,,-1,Male,Phone,N/A,0.0,2023-01-08,us,credit card
+111.0,,56,,PHONE,735,3.0,2023-07-26,us,Cash
+112.0,,,Male,laptop,-99,-2.0,2023-11-03,Nepal,Debit
+113.0,,unknown,,,-99,5.0,2023-10-24,India,Cash
+,C80,,F,Phone,-99,2.0,2022-10-30,USA,
+115.0,,,female,Phone,N/A,0.0,2022-07-05,,
+116.0,,46,F,Tablet,-99,-2.0,2024-02-10,Nepal,Debit
+117.0,,,,laptop,N/A,,2023-05-30,United States,Debit
+118.0,,unknown,M,laptop,260,3.0,2024-02-21,Nepal,
+119.0,C112,unknown,M,Laptop,899,-2.0,2022-08-30,USA,Cash
+120.0,C82,,Female,Phone,,0.0,2024-02-17,Nepal,
+,C21,-1,Female,laptop,N/A,-2.0,2022-09-01,USA,Debit
+122.0,,22,F,laptop,1147,0.0,2024-01-06,Nepal,Credit Card
+123.0,,-1,,PHONE,,1.0,2023-02-04,USA,credit card
+124.0,,,Male,Tablet,543,-2.0,13/40/2023,India,Cash
+125.0,,unknown,,Phone,326,4.0,2022-10-28,,Debit
+126.0,,unknown,female,Headphones,568,-2.0,2023-01-01,USA,Cash
+127.0,,unknown,F,Tablet,N/A,-2.0,2024-03-27,,Credit Card
+128.0,,-1,female,Tablet,707,-2.0,2023-11-08,Nepal,
+129.0,,,F,Laptop,N/A,3.0,2022-03-18,Nepal,Cash
+130.0,,28,Female,,N/A,0.0,2022-03-10,,Cash
+131.0,C146,-1,,Headphones,,4.0,2023-08-11,us,credit card
+132.0,C72,25,,Phone,N/A,5.0,2022-09-26,,credit card
+133.0,,unknown,Female,Laptop,327,0.0,2024-01-01,USA,Cash
+134.0,C182,,M,,-99,0.0,2022-05-05,,Debit
+135.0,C127,,F,,-99,5.0,2022-03-09,,credit card
+136.0,,70,Female,Tablet,1365,,2023-11-28,United States,
+137.0,C47,45,Male,laptop,,0.0,2022-11-27,United States,Cash
+138.0,,,Female,PHONE,,-2.0,2023-09-22,India,Debit
+139.0,C149,,female,Laptop,108,-2.0,2023-10-29,India,credit card
+140.0,,,,Tablet,-99,-2.0,13/40/2023,USA,Debit
+141.0,,,female,Phone,,,2022-05-14,India,
+142.0,,,F,Phone,338,-2.0,2023-01-29,Nepal,Debit
+143.0,,,Female,,N/A,,2023-05-26,Nepal,Credit Card
+144.0,,-1,Female,laptop,772,-2.0,2023-05-22,,credit card
+145.0,C3,-1,M,PHONE,N/A,3.0,13/40/2023,India,Debit
+146.0,C74,unknown,female,Tablet,1326,2.0,2023-02-08,us,
+147.0,C194,unknown,female,Laptop,142,-2.0,2024-04-03,Nepal,Debit
+148.0,C132,,Female,Headphones,,-2.0,2023-06-04,India,credit card
+149.0,,70,M,Tablet,1429,-2.0,2024-03-26,,Credit Card
+150.0,,-1,,Laptop,N/A,,2022-06-01,United States,Credit Card
+151.0,C180,30,F,Tablet,-99,0.0,2023-02-25,India,credit card
+152.0,,-1,female,Phone,,,2022-11-18,Nepal,
+153.0,,,female,Headphones,-99,-2.0,2022-08-19,us,Cash
+154.0,,,F,Tablet,,3.0,2023-08-11,Nepal,credit card
+155.0,C198,36,M,PHONE,,-2.0,2024-02-05,United States,
+156.0,,-1,Male,laptop,-99,2.0,2023-11-17,United States,Debit
+157.0,,unknown,Male,PHONE,331,0.0,2023-02-21,Nepal,credit card
+158.0,,,,Laptop,-99,5.0,2022-06-29,,Debit
+159.0,,unknown,Female,PHONE,642,-2.0,2023-08-05,us,Cash
+160.0,,unknown,Female,,N/A,0.0,2024-04-08,United States,credit card
+161.0,C184,,M,laptop,-99,,2024-04-26,us,Credit Card
+162.0,C25,unknown,M,Phone,,0.0,2023-04-03,us,Cash
+163.0,C147,,,Phone,177,-2.0,2022-06-13,India,Cash
+164.0,,-1,Female,Phone,-99,-2.0,2023-03-02,Nepal,
+165.0,C56,61,female,Headphones,,1.0,2022-03-05,India,Debit
+166.0,C39,unknown,Male,PHONE,N/A,,13/40/2023,United States,
+167.0,C145,unknown,,,681,-2.0,13/40/2023,United States,
+168.0,,62,female,Laptop,N/A,-2.0,2023-02-23,United States,credit card
+169.0,,unknown,Male,PHONE,-99,3.0,2022-07-02,Nepal,
+170.0,C58,66,M,Headphones,N/A,,2024-04-23,Nepal,Cash
+171.0,,66,Male,,N/A,5.0,2022-09-04,USA,
+,,63,Female,PHONE,N/A,0.0,2023-07-07,,Credit Card
+173.0,C75,,female,laptop,,-2.0,2024-06-16,,
+174.0,,-1,,PHONE,N/A,-2.0,2023-10-21,,
+175.0,,,F,Phone,N/A,0.0,2022-11-04,United States,credit card
+176.0,,-1,F,Phone,-99,3.0,2023-04-06,USA,
+177.0,C49,unknown,,laptop,1284,0.0,2024-04-03,,
+178.0,,37,Female,Phone,N/A,0.0,2023-02-11,India,Cash
+179.0,,,M,Tablet,N/A,4.0,2024-04-02,Nepal,Cash
+180.0,,44,female,,-99,-2.0,2023-07-21,India,credit card
+181.0,,unknown,female,,N/A,-2.0,2022-09-21,Nepal,credit card
+182.0,,-1,,laptop,-99,5.0,13/40/2023,,Credit Card
+183.0,C172,66,F,Phone,-99,0.0,2022-01-10,Nepal,Cash
+184.0,,unknown,,Headphones,82,,13/40/2023,,Cash
+185.0,C74,unknown,Female,Laptop,-99,0.0,2023-09-27,,Cash
+186.0,C102,unknown,F,laptop,-99,3.0,2023-11-01,,Credit Card
+187.0,,unknown,Male,PHONE,-99,,2024-05-15,,Cash
+188.0,,-1,Female,,N/A,3.0,2022-03-18,us,
+189.0,C9,38,Female,laptop,N/A,-2.0,2022-06-16,India,credit card
+190.0,,-1,,PHONE,,1.0,2023-03-24,USA,Cash
+191.0,,,Male,PHONE,N/A,0.0,2022-12-31,Nepal,credit card
+192.0,,42,female,Tablet,554,-2.0,2022-06-07,,Debit
+193.0,,24,Male,Tablet,,3.0,13/40/2023,Nepal,credit card
+194.0,,24,Male,Tablet,1185,-2.0,2024-06-03,us,credit card
+195.0,,-1,female,laptop,N/A,0.0,2022-10-03,Nepal,Debit
+196.0,,,F,,,0.0,2024-01-09,India,
+197.0,C28,37,F,Tablet,N/A,,2022-12-09,,
+198.0,,-1,F,Tablet,N/A,-2.0,2024-01-23,Nepal,
+199.0,,unknown,M,Laptop,-99,0.0,2023-11-30,USA,credit card
+200.0,,,,Laptop,N/A,-2.0,2022-09-05,United States,credit card
+201.0,,unknown,female,Headphones,N/A,5.0,2024-03-20,,
+202.0,C22,-1,,PHONE,-99,5.0,2023-07-31,,credit card
+203.0,,24,Male,Tablet,-99,-2.0,2023-02-05,,
+204.0,,unknown,Male,Tablet,901,0.0,2022-12-23,Nepal,Debit
+205.0,,unknown,,PHONE,,-2.0,2022-02-15,USA,Credit Card
+206.0,C166,-1,,Phone,-99,0.0,2022-12-05,Nepal,Debit
+207.0,C162,unknown,F,Laptop,-99,,13/40/2023,United States,Debit
+208.0,C181,54,female,Phone,,,2022-04-27,,credit card
+209.0,,unknown,female,Headphones,1252,-2.0,2024-05-15,United States,Cash
+210.0,C152,-1,M,Laptop,,0.0,2023-01-18,India,credit card
+211.0,,unknown,Female,Headphones,-99,0.0,2023-05-17,United States,Cash
+212.0,C159,40,F,Phone,N/A,,2023-02-23,Nepal,credit card
+213.0,,-1,M,Laptop,-99,-2.0,2022-06-22,India,credit card
+214.0,,,female,,801,0.0,2023-03-12,,Debit
+215.0,,,Male,Headphones,-99,-2.0,2024-05-31,,credit card
+216.0,C36,-1,Male,laptop,,0.0,2022-11-28,us,Cash
+217.0,,70,Female,,892,0.0,2023-12-20,United States,Debit
+218.0,,unknown,Female,laptop,,,13/40/2023,,Credit Card
+219.0,,,F,Headphones,720,,2023-10-13,us,Credit Card
+220.0,C102,-1,F,Tablet,,0.0,2023-08-03,,Cash
+221.0,C196,20,,,991,0.0,2023-03-28,Nepal,Debit
+222.0,,-1,M,Laptop,,3.0,2023-01-16,,Debit
+223.0,,-1,F,PHONE,236,0.0,13/40/2023,India,Debit
+224.0,C114,,Male,,-99,4.0,2022-08-23,,Credit Card
+225.0,,unknown,Female,PHONE,-99,1.0,2023-09-17,Nepal,Cash
+226.0,,unknown,female,PHONE,-99,1.0,2022-05-24,India,credit card
+227.0,,-1,Female,Tablet,1370,-2.0,2024-03-08,USA,Cash
+228.0,,unknown,M,PHONE,-99,,2022-04-26,,
+229.0,,-1,F,,N/A,0.0,2024-02-21,,Credit Card
+,C18,-1,Male,Laptop,,,2023-03-10,USA,
+231.0,,,Male,laptop,-99,-2.0,2023-02-05,,Credit Card
+232.0,,33,Female,Laptop,939,4.0,2022-11-13,,Debit
+233.0,C182,62,Female,Headphones,,-2.0,2022-05-10,,Cash
+234.0,C31,unknown,M,laptop,,5.0,2023-05-24,us,Credit Card
+235.0,C146,-1,M,,260,2.0,2022-02-15,USA,Debit
+,,-1,Male,laptop,N/A,-2.0,2022-09-12,,Cash
+237.0,,41,female,PHONE,-99,2.0,13/40/2023,Nepal,Cash
+238.0,,unknown,Male,Tablet,,-2.0,2024-01-28,Nepal,Cash
+239.0,C127,-1,Female,Laptop,889,-2.0,2023-10-14,USA,Cash
+,,,Male,Phone,-99,,2022-03-03,United States,Cash
+241.0,,,F,PHONE,223,0.0,2023-10-15,USA,
+242.0,,-1,M,Tablet,N/A,-2.0,2023-04-09,USA,Debit
+243.0,,-1,Male,Phone,N/A,,2022-05-04,,Debit
+244.0,,25,Female,,,5.0,2022-08-09,us,Debit
+245.0,,43,,Tablet,-99,,2024-05-25,,
+246.0,C119,-1,Male,Laptop,-99,0.0,2024-04-23,,Credit Card
+247.0,C67,19,Female,PHONE,-99,-2.0,13/40/2023,Nepal,Credit Card
+248.0,,unknown,F,Laptop,N/A,-2.0,2022-08-08,us,Cash
+249.0,C39,-1,,Tablet,N/A,,13/40/2023,Nepal,Debit
+250.0,,33,F,,N/A,,2022-12-19,India,Cash
+251.0,C47,-1,Male,,625,-2.0,2024-02-25,United States,Debit
+252.0,C169,35,Female,laptop,,0.0,2022-08-31,,Cash
+253.0,,,female,laptop,-99,-2.0,2022-06-29,USA,Credit Card
+254.0,C57,unknown,Male,Tablet,-99,-2.0,2024-01-05,,Cash
+255.0,,-1,Male,,,-2.0,2023-12-23,Nepal,
+256.0,,-1,,Headphones,N/A,0.0,2023-12-26,,
+257.0,,-1,F,Tablet,,0.0,13/40/2023,,
+258.0,,-1,female,Tablet,-99,5.0,2023-05-24,,Credit Card
+259.0,C82,58,,PHONE,,4.0,2022-09-29,,Credit Card
+260.0,,18,F,Headphones,-99,,2023-01-23,Nepal,Credit Card
+261.0,,-1,Female,Headphones,200,3.0,2022-11-23,USA,Credit Card
+262.0,C97,64,female,Laptop,N/A,,2023-11-01,Nepal,Debit
+263.0,C85,unknown,,laptop,,-2.0,13/40/2023,Nepal,
+264.0,C126,,Male,Headphones,,,13/40/2023,United States,Debit
+265.0,,,F,Headphones,,,2022-07-09,Nepal,Cash
+266.0,,unknown,M,Phone,600,2.0,2022-03-29,,
+267.0,,32,F,,N/A,,2023-08-10,Nepal,Cash
+268.0,C183,-1,Male,,-99,0.0,2024-04-07,USA,credit card
+269.0,,-1,female,Tablet,704,,2023-07-24,us,Cash
+270.0,,unknown,Male,Headphones,-99,5.0,2022-04-19,USA,Cash
+271.0,,unknown,,Headphones,N/A,0.0,2022-10-10,India,
+272.0,C103,,,Phone,N/A,-2.0,2022-01-21,,Cash
+273.0,,61,Female,Phone,N/A,-2.0,2024-01-17,,Credit Card
+274.0,,unknown,female,,815,0.0,2022-03-09,India,credit card
+275.0,,-1,Female,,461,2.0,13/40/2023,us,Debit
+276.0,,43,,Laptop,,,2022-07-01,Nepal,
+277.0,C89,34,M,Laptop,841,0.0,2024-05-27,United States,Debit
+278.0,,19,F,Phone,-99,5.0,2022-08-18,,Cash
+279.0,,unknown,F,,N/A,0.0,2023-04-23,India,
+280.0,C27,,female,PHONE,,3.0,13/40/2023,us,Cash
+281.0,,,Female,Phone,-99,,2023-11-08,United States,Credit Card
+282.0,,unknown,F,PHONE,-99,0.0,2023-12-04,,credit card
+283.0,,,Female,,-99,3.0,2023-04-28,us,
+284.0,,39,Female,Tablet,,-2.0,2023-01-16,us,credit card
+285.0,C121,58,F,Phone,1074,-2.0,13/40/2023,,Debit
+286.0,,unknown,Female,Tablet,419,-2.0,2023-10-09,us,Credit Card
+,C71,-1,female,,N/A,0.0,2023-09-22,Nepal,credit card
+288.0,,18,female,Phone,814,0.0,2022-01-19,,Debit
+289.0,,26,F,laptop,,2.0,13/40/2023,us,credit card
+290.0,,unknown,,Phone,N/A,0.0,2022-06-18,,credit card
+,,-1,,Laptop,-99,-2.0,2023-12-30,USA,credit card
+292.0,,57,female,Laptop,1405,1.0,2023-12-08,Nepal,credit card
+293.0,,-1,Female,PHONE,1454,,2023-11-09,India,Cash
+294.0,C180,44,female,PHONE,1315,3.0,2024-03-14,United States,
+295.0,,,,Headphones,-99,,2022-08-01,Nepal,Cash
+296.0,,23,female,PHONE,-99,1.0,2024-01-11,us,Debit
+297.0,,47,Male,,407,-2.0,2024-03-31,Nepal,Credit Card
+298.0,C195,-1,,PHONE,,,2023-09-29,,Credit Card
+299.0,C88,unknown,F,Headphones,N/A,,2023-10-27,United States,Credit Card
+300.0,C186,28,F,laptop,N/A,,2024-03-08,USA,Debit
+301.0,C125,unknown,Male,Laptop,,0.0,2023-11-17,India,
+302.0,C159,-1,F,Tablet,N/A,2.0,2022-01-12,United States,
+303.0,C127,unknown,M,Phone,,0.0,2023-07-18,Nepal,Debit
+304.0,,46,F,Headphones,697,4.0,2022-04-16,USA,
+305.0,,,female,laptop,N/A,-2.0,13/40/2023,United States,credit card
+306.0,,unknown,,PHONE,N/A,1.0,2024-02-17,USA,Cash
+307.0,,,,Laptop,-99,0.0,2024-04-21,,credit card
+308.0,C157,30,F,Phone,-99,3.0,2024-02-15,,
+309.0,,-1,F,Laptop,1136,,2024-05-08,India,Debit
+310.0,,-1,Male,Headphones,,,2023-03-05,,Debit
+311.0,,-1,Female,Headphones,,-2.0,2023-12-30,India,Debit
+312.0,,,,Phone,-99,-2.0,2023-12-29,us,
+313.0,,unknown,,PHONE,,4.0,2023-06-20,Nepal,Debit
+314.0,C15,-1,M,PHONE,-99,-2.0,2022-07-28,USA,Cash
+315.0,,-1,,PHONE,N/A,-2.0,2023-12-11,Nepal,credit card
+316.0,,53,Male,PHONE,-99,,2024-04-29,,Cash
+317.0,,-1,,Phone,N/A,2.0,2022-07-11,,
+318.0,,,Female,Phone,,-2.0,2023-04-23,United States,Credit Card
+319.0,,,F,,,-2.0,2023-06-23,United States,
+320.0,C130,unknown,Male,Tablet,-99,-2.0,2023-01-05,,
+321.0,,18,,Tablet,-99,0.0,2022-02-10,us,credit card
+322.0,,,Male,laptop,N/A,4.0,2022-10-31,United States,Cash
+323.0,C25,67,,Laptop,-99,4.0,2022-07-30,,credit card
+324.0,,-1,Male,Headphones,729,1.0,2022-02-25,us,
+325.0,,unknown,F,PHONE,N/A,3.0,2023-02-03,India,Credit Card
+326.0,C159,66,,,,5.0,2022-10-24,us,
+327.0,,unknown,,Laptop,-99,0.0,2022-05-20,,
+328.0,C163,,Male,laptop,-99,1.0,2022-01-06,Nepal,
+329.0,,,Female,Headphones,-99,0.0,2022-08-15,us,Debit
+330.0,,unknown,,laptop,,-2.0,2022-04-11,India,credit card
+331.0,C92,-1,Male,Tablet,1318,-2.0,2023-05-13,India,Cash
+332.0,,,M,Headphones,395,0.0,2024-03-15,,credit card
+333.0,C93,,F,Headphones,,,2023-07-19,,
+334.0,C72,-1,M,PHONE,1333,1.0,2024-05-19,USA,
+335.0,,31,female,Tablet,N/A,-2.0,2023-02-06,,
+336.0,C75,47,F,Tablet,1078,0.0,2024-02-15,Nepal,Debit
+337.0,,unknown,M,Laptop,N/A,2.0,2022-09-28,USA,Debit
+338.0,,unknown,Male,Laptop,,-2.0,2024-05-04,India,
+339.0,,,female,PHONE,,0.0,2023-06-13,,Cash
+340.0,,-1,F,Phone,521,-2.0,2022-08-05,United States,Cash
+341.0,,unknown,M,PHONE,N/A,,2022-08-04,,credit card
+,C12,-1,Female,PHONE,1099,0.0,2022-02-27,United States,
+343.0,,58,,PHONE,,0.0,2023-04-05,Nepal,credit card
+344.0,,-1,female,PHONE,,-2.0,2023-04-10,USA,Debit
+345.0,C34,-1,female,,N/A,2.0,2022-07-01,India,
+,,66,Male,Headphones,-99,5.0,2024-03-04,Nepal,
+347.0,,unknown,Female,,N/A,3.0,2023-03-12,Nepal,Debit
+348.0,,unknown,M,Phone,61,5.0,13/40/2023,,Debit
+349.0,,41,Female,Headphones,,,2023-08-02,us,credit card
+350.0,,unknown,Female,Tablet,N/A,-2.0,2023-08-15,,credit card
+351.0,C169,-1,F,,-99,0.0,2023-06-05,us,
+352.0,,-1,F,PHONE,60,,2023-09-07,USA,Cash
+353.0,,unknown,F,laptop,,5.0,2024-03-03,,credit card
+354.0,,,Female,Laptop,-99,0.0,13/40/2023,United States,Credit Card
+355.0,,unknown,M,PHONE,N/A,0.0,13/40/2023,,Credit Card
+356.0,,,M,,-99,0.0,2023-04-11,India,Credit Card
+357.0,,24,female,Tablet,746,-2.0,2024-06-16,,
+358.0,,unknown,Female,,N/A,4.0,2023-05-09,USA,credit card
+359.0,,-1,M,Headphones,773,0.0,13/40/2023,,Cash
+360.0,,,Female,laptop,-99,,2024-01-25,,Debit
+361.0,C53,-1,female,Tablet,369,1.0,2023-11-24,Nepal,
+,C139,,female,Tablet,,0.0,2024-02-22,us,credit card
+363.0,C148,unknown,F,laptop,,0.0,2023-04-14,,
+364.0,C177,-1,F,laptop,,-2.0,2022-07-11,United States,Cash
+365.0,,-1,F,Headphones,N/A,-2.0,2024-05-24,Nepal,Debit
+366.0,,32,,Tablet,N/A,0.0,2022-05-30,,Debit
+367.0,C3,unknown,Female,,,-2.0,2022-09-14,India,Credit Card
+368.0,C177,-1,M,Headphones,1339,-2.0,2022-09-24,India,
+369.0,,unknown,Male,Tablet,-99,0.0,2024-03-10,us,
+370.0,,unknown,female,Tablet,-99,-2.0,2023-03-08,India,credit card
+371.0,C19,,Female,Tablet,,,2022-10-05,,Cash
+372.0,,-1,Female,,-99,-2.0,2024-02-01,USA,Debit
+373.0,C27,unknown,female,Laptop,N/A,5.0,2022-04-17,United States,Credit Card
+374.0,,-1,,Tablet,-99,0.0,13/40/2023,us,Cash
+375.0,,unknown,Female,PHONE,-99,,2023-10-09,India,credit card
+376.0,,,F,laptop,515,-2.0,2023-01-10,United States,Cash
+,C134,,F,laptop,N/A,-2.0,2022-01-10,,Cash
+378.0,,-1,F,laptop,N/A,0.0,2024-01-03,Nepal,credit card
+379.0,,-1,female,,,-2.0,2023-02-27,USA,Debit
+380.0,,unknown,M,PHONE,N/A,-2.0,2022-01-20,India,Credit Card
+381.0,,-1,,Headphones,-99,0.0,2022-01-16,us,credit card
+382.0,,47,M,Laptop,349,,2022-03-15,United States,Debit
+383.0,,18,,Phone,N/A,2.0,2022-07-23,,Credit Card
+384.0,,,M,Phone,1338,5.0,2022-09-17,us,Debit
+385.0,,31,Female,PHONE,,0.0,2024-03-24,USA,credit card
+386.0,C3,unknown,,laptop,,0.0,2022-06-11,,
+387.0,,21,M,PHONE,365,,2022-08-27,India,Cash
+388.0,,30,,Headphones,-99,3.0,2023-05-12,India,Cash
+389.0,C126,-1,female,Tablet,N/A,0.0,2022-03-12,Nepal,Cash
+390.0,,47,,laptop,-99,-2.0,2024-03-05,us,Credit Card
+391.0,,unknown,female,Phone,,,2023-10-19,USA,
+392.0,C12,29,Female,Laptop,-99,1.0,2023-08-08,Nepal,credit card
+393.0,,34,M,Phone,1290,0.0,2023-11-03,,Credit Card
+394.0,C164,unknown,M,,1500,-2.0,13/40/2023,USA,Cash
+395.0,,24,,Phone,N/A,0.0,2023-06-23,India,Debit
+396.0,,65,,laptop,N/A,4.0,2022-06-20,India,credit card
+397.0,C169,unknown,M,Tablet,,,2024-02-22,,Cash
+398.0,,unknown,female,PHONE,,,13/40/2023,USA,Cash
+399.0,C133,37,M,Phone,,-2.0,2023-07-21,India,
+400.0,,-1,Female,Tablet,-99,-2.0,2024-04-10,India,credit card
+401.0,,,F,Phone,1049,-2.0,2022-02-08,India,credit card
+402.0,,unknown,F,,-99,5.0,2023-10-12,Nepal,Credit Card
+403.0,,-1,M,laptop,-99,2.0,2023-11-21,Nepal,credit card
+404.0,,-1,F,Tablet,-99,-2.0,2022-03-26,,Credit Card
+405.0,C68,unknown,,Phone,N/A,0.0,2023-05-15,India,Debit
+406.0,,-1,Male,Tablet,,5.0,2022-04-26,Nepal,Cash
+407.0,,56,M,Phone,N/A,0.0,13/40/2023,,Debit
+408.0,C96,66,Male,PHONE,-99,0.0,2024-06-08,us,Credit Card
+409.0,,unknown,Male,Tablet,-99,-2.0,2023-07-16,,Debit
+410.0,C172,42,M,Phone,,-2.0,2022-02-24,USA,Credit Card
+411.0,,,Male,Laptop,N/A,,2023-06-05,USA,Cash
+412.0,,-1,Female,laptop,987,0.0,2023-06-27,Nepal,credit card
+413.0,,,M,PHONE,-99,-2.0,13/40/2023,us,credit card
+414.0,,-1,Female,Tablet,-99,,2023-06-18,India,Debit
+415.0,C147,,female,Tablet,-99,0.0,2023-08-18,,Debit
+416.0,,-1,F,,-99,3.0,2023-07-25,,Credit Card
+417.0,,,F,Headphones,N/A,0.0,2024-03-08,United States,Debit
+,,-1,female,Phone,522,3.0,2023-12-06,United States,
+419.0,,,Female,,N/A,0.0,2022-06-17,USA,credit card
+420.0,,-1,,PHONE,-99,0.0,2023-03-26,Nepal,Cash
+421.0,,43,female,PHONE,,4.0,2023-06-18,Nepal,Credit Card
+422.0,,unknown,,Laptop,N/A,5.0,2022-07-14,Nepal,Cash
+423.0,,unknown,M,laptop,-99,,2022-04-03,USA,Debit
+424.0,,unknown,F,Tablet,973,,2023-08-28,United States,credit card
+425.0,,-1,,PHONE,303,,2023-10-12,India,credit card
+426.0,,unknown,female,Headphones,-99,0.0,2022-06-16,United States,Credit Card
+427.0,,unknown,M,PHONE,420,0.0,2022-01-04,us,Credit Card
+428.0,,69,female,Headphones,-99,,2023-04-10,USA,
+429.0,,-1,Male,Phone,353,3.0,2022-05-29,,
+430.0,,23,Male,Headphones,-99,0.0,2023-04-12,us,Credit Card
+431.0,,unknown,Male,,925,,2022-05-18,,Cash
+432.0,,-1,female,Laptop,273,-2.0,2023-03-14,us,Cash
+433.0,,unknown,female,PHONE,N/A,0.0,2023-09-17,us,Debit
+,,58,,,N/A,4.0,2022-12-08,,Debit
+,,,Male,Tablet,,1.0,2023-12-04,Nepal,
+436.0,C8,,M,PHONE,N/A,0.0,2023-05-09,Nepal,
+437.0,,65,female,Tablet,,5.0,2022-08-02,us,Cash
+438.0,,,F,PHONE,-99,,2022-07-11,,Cash
+439.0,,,F,Laptop,-99,,2024-04-29,United States,
+440.0,,68,Female,Laptop,958,0.0,2022-07-14,Nepal,
+441.0,C84,67,female,PHONE,-99,,2023-02-01,India,Credit Card
+,,56,M,Headphones,144,-2.0,2022-01-24,us,Debit
+443.0,,,F,PHONE,,0.0,2022-10-08,India,
+444.0,,,M,Phone,,0.0,13/40/2023,India,Cash
+445.0,C13,unknown,,Laptop,N/A,1.0,2023-03-13,,
+446.0,,unknown,female,Tablet,,2.0,2024-02-13,India,Debit
+447.0,,unknown,M,PHONE,N/A,0.0,2022-08-18,India,Cash
+448.0,C101,,M,Headphones,1048,,2022-04-26,Nepal,Debit
+449.0,,-1,female,Laptop,880,3.0,2024-03-22,Nepal,credit card
+450.0,,-1,F,Headphones,,,2024-03-14,India,Cash
+451.0,C61,60,,PHONE,N/A,,2022-11-30,,credit card
+452.0,C104,56,,,N/A,,2023-10-23,USA,Debit
+453.0,,69,Female,PHONE,N/A,-2.0,2023-02-04,Nepal,Debit
+454.0,,,F,PHONE,755,5.0,2023-09-19,Nepal,Debit
+455.0,,53,Male,PHONE,,-2.0,13/40/2023,Nepal,
+456.0,,unknown,F,Headphones,-99,,2022-05-23,Nepal,Cash
+457.0,,-1,Female,Laptop,196,,2023-11-05,United States,Credit Card
+458.0,,unknown,female,Phone,N/A,,2023-01-29,United States,credit card
+459.0,,-1,,laptop,N/A,-2.0,2022-02-04,India,credit card
+460.0,,48,Female,PHONE,,4.0,2023-06-20,USA,Debit
+461.0,,60,,PHONE,,5.0,2022-12-18,USA,credit card
+462.0,,,F,Tablet,,2.0,2023-12-13,,Cash
+463.0,,unknown,female,Phone,1223,3.0,2022-10-21,United States,
+464.0,,,M,,576,0.0,2023-08-29,,credit card
+465.0,,-1,F,Phone,1130,3.0,2022-05-29,,Debit
+466.0,,unknown,Female,PHONE,-99,-2.0,2022-02-25,,Credit Card
+467.0,,,F,PHONE,-99,,2023-05-01,India,credit card
+,,,female,PHONE,134,-2.0,2024-05-14,,Cash
+469.0,C69,unknown,F,,-99,0.0,2023-06-17,,Debit
+470.0,,18,Male,Headphones,250,-2.0,2022-08-13,us,Debit
+,C159,-1,female,PHONE,299,0.0,2023-01-20,,
+472.0,C48,-1,M,Tablet,1006,-2.0,2024-02-27,,Cash
+473.0,C200,35,F,Headphones,731,-2.0,2022-07-02,Nepal,Debit
+474.0,,49,Female,laptop,-99,5.0,2023-03-29,USA,Credit Card
+475.0,,unknown,Male,Headphones,354,,2022-09-30,us,credit card
+476.0,,unknown,F,Headphones,877,0.0,2022-01-04,,credit card
+477.0,,,F,Laptop,1344,-2.0,2022-03-24,,Cash
+478.0,,unknown,,Phone,N/A,-2.0,13/40/2023,,credit card
+479.0,C36,30,,laptop,N/A,4.0,2024-03-22,us,credit card
+480.0,C116,,Male,Tablet,N/A,0.0,2024-04-06,India,credit card
+481.0,C138,-1,Male,Laptop,N/A,,13/40/2023,,Debit
+,C162,37,F,laptop,399,1.0,2023-05-25,India,Debit
+483.0,,unknown,M,Laptop,-99,0.0,13/40/2023,United States,Cash
+484.0,C71,unknown,Female,PHONE,-99,0.0,13/40/2023,USA,
+485.0,C41,49,Male,Laptop,417,-2.0,2023-03-03,,credit card
+486.0,C53,,female,Headphones,-99,2.0,2023-09-03,Nepal,
+487.0,,unknown,Male,laptop,-99,1.0,2023-09-26,,
+488.0,,-1,M,Laptop,446,,2023-05-25,,Credit Card
+489.0,,unknown,M,Tablet,N/A,1.0,13/40/2023,India,Debit
+490.0,,50,Male,Phone,,0.0,2024-02-05,us,Debit
+491.0,C84,-1,,Headphones,N/A,2.0,2023-04-28,USA,credit card
+492.0,,unknown,M,Phone,-99,-2.0,2022-07-27,USA,
+493.0,C35,unknown,F,Phone,-99,0.0,2024-03-19,India,Debit
+494.0,C142,unknown,female,Headphones,N/A,-2.0,2022-01-15,,Debit
+495.0,,-1,female,Laptop,905,,2024-01-22,USA,credit card
+496.0,,70,F,Headphones,542,5.0,2023-12-11,United States,Debit
+497.0,,23,F,PHONE,-99,4.0,2023-04-11,United States,credit card
+498.0,,47,,Laptop,,5.0,2022-10-31,us,
+499.0,,,,Laptop,,1.0,2023-01-28,India,Credit Card
+500.0,,53,female,PHONE,-99,0.0,2023-07-07,Nepal,
+501.0,C180,-1,M,Tablet,N/A,3.0,2022-03-06,Nepal,credit card
+502.0,,,F,laptop,803,,13/40/2023,United States,Cash
+503.0,C20,,Male,PHONE,N/A,0.0,2023-06-18,USA,Cash
+504.0,,unknown,M,Headphones,959,0.0,13/40/2023,,Debit
+505.0,,unknown,female,Tablet,,,2023-04-14,United States,Cash
+506.0,C67,,M,,-99,-2.0,2023-04-12,India,Debit
+507.0,C74,-1,Female,Phone,289,0.0,2023-03-28,United States,Debit
+508.0,,,Female,Tablet,-99,-2.0,2022-05-05,Nepal,credit card
+509.0,,27,,laptop,,,2022-10-24,,
+510.0,,,,Laptop,1030,2.0,13/40/2023,India,Debit
+511.0,,-1,female,laptop,,2.0,2022-03-27,Nepal,Credit Card
+512.0,C101,,female,laptop,1097,,2022-06-01,Nepal,Cash
+513.0,,,M,Headphones,1198,,2024-01-30,,credit card
+514.0,,unknown,Female,,1252,0.0,2022-11-07,,
+515.0,,unknown,Male,Laptop,,0.0,2023-07-24,India,Debit
+516.0,,unknown,Male,,,,13/40/2023,USA,Debit
+517.0,,48,,PHONE,N/A,,2023-12-06,USA,Credit Card
+518.0,C127,,female,Headphones,N/A,,2023-12-12,us,
+519.0,,28,Female,Tablet,-99,0.0,2022-02-24,Nepal,Cash
+,,58,female,Phone,-99,0.0,2023-07-11,us,Cash
+521.0,,41,female,laptop,-99,0.0,2023-06-15,,credit card
+522.0,C42,-1,female,Phone,435,,2022-03-20,United States,Credit Card
+523.0,,-1,F,laptop,,-2.0,2022-01-30,USA,Debit
+524.0,C178,-1,M,Phone,-99,,2023-12-09,USA,Credit Card
+,,-1,Male,Laptop,1401,4.0,13/40/2023,us,Credit Card
+526.0,,-1,Female,PHONE,769,0.0,2024-05-16,us,
+527.0,,-1,female,laptop,189,5.0,2023-06-26,United States,Cash
+528.0,,18,Female,laptop,N/A,0.0,2023-03-27,USA,Debit
+529.0,,-1,F,Laptop,693,4.0,2023-06-17,,Cash
+530.0,,20,M,Headphones,N/A,,2023-09-07,,credit card
+531.0,,-1,Male,,,2.0,2023-11-22,USA,credit card
+532.0,,23,Female,Headphones,870,2.0,2023-01-08,us,Debit
+533.0,C104,unknown,,Headphones,,-2.0,2023-05-03,Nepal,credit card
+534.0,,24,M,Headphones,-99,2.0,2022-04-12,,Credit Card
+535.0,C7,,Female,Tablet,1323,,2024-03-22,us,credit card
+536.0,,39,Male,Headphones,N/A,-2.0,2024-05-23,Nepal,Credit Card
+,,,,Phone,N/A,-2.0,2024-01-03,,Credit Card
+538.0,,unknown,F,laptop,370,-2.0,2023-05-22,Nepal,
+539.0,,38,Male,laptop,-99,-2.0,2024-04-08,USA,Cash
+540.0,,unknown,M,Laptop,-99,0.0,2023-10-26,USA,Credit Card
+541.0,,28,female,Tablet,N/A,,13/40/2023,Nepal,
+,,unknown,M,laptop,N/A,0.0,2022-12-11,,Cash
+543.0,,-1,F,PHONE,-99,-2.0,2022-02-18,India,credit card
+544.0,,23,female,Tablet,609,,2023-03-14,,Credit Card
+545.0,,,F,PHONE,,,2023-02-16,India,credit card
+546.0,C141,-1,female,Headphones,N/A,,2023-08-03,USA,
+547.0,C119,-1,,PHONE,N/A,-2.0,2024-05-30,USA,Debit
+548.0,,-1,M,PHONE,-99,0.0,2022-04-27,USA,Debit
+549.0,,unknown,F,PHONE,-99,-2.0,13/40/2023,,Cash
+550.0,,unknown,Male,Laptop,,-2.0,13/40/2023,Nepal,Cash
+551.0,,-1,Female,Laptop,1219,-2.0,2023-05-24,United States,
+552.0,,unknown,,PHONE,N/A,0.0,2022-04-20,us,credit card
+553.0,C151,,,Laptop,N/A,0.0,2022-10-12,United States,Cash
+554.0,,19,,PHONE,-99,,2022-11-13,,Cash
+555.0,C176,-1,F,Headphones,N/A,-2.0,2022-04-03,,Debit
+556.0,,,,Headphones,,,2023-04-28,,Cash
+557.0,C26,,female,Laptop,N/A,-2.0,2023-04-10,,Credit Card
+558.0,,-1,Male,Headphones,,3.0,2022-04-24,India,Debit
+559.0,,,F,Headphones,,-2.0,2024-03-29,USA,credit card
+560.0,,-1,Male,Laptop,-99,,2022-07-23,,Debit
+,,,Female,Laptop,-99,5.0,2022-01-15,Nepal,credit card
+562.0,C127,-1,Female,,,,2022-05-14,United States,
+563.0,,-1,F,Phone,-99,-2.0,2022-09-26,Nepal,Debit
+564.0,,47,Male,Headphones,,0.0,2024-01-01,Nepal,
+565.0,,21,M,Phone,,5.0,2022-01-06,India,credit card
+566.0,,-1,female,Laptop,-99,0.0,2023-05-31,us,credit card
+567.0,,unknown,Female,Tablet,,0.0,2023-05-27,,Cash
+568.0,,,female,Tablet,-99,,2024-02-22,India,credit card
+569.0,C39,-1,Male,Headphones,-99,,2022-04-29,Nepal,Credit Card
+570.0,,unknown,F,Laptop,353,3.0,2022-07-28,United States,Debit
+571.0,,-1,female,Laptop,-99,4.0,2022-09-10,,Credit Card
+572.0,,61,F,Tablet,1259,0.0,13/40/2023,,credit card
+573.0,,60,M,Laptop,N/A,0.0,2022-08-05,,Cash
+574.0,,unknown,Male,Headphones,-99,,13/40/2023,United States,Debit
+575.0,,-1,Male,Tablet,N/A,0.0,2023-01-03,,Cash
+576.0,,unknown,M,laptop,N/A,,2024-04-10,United States,credit card
+577.0,C24,,F,PHONE,-99,4.0,2022-10-25,USA,credit card
+578.0,,-1,female,Headphones,655,5.0,2022-02-16,India,credit card
+579.0,,,M,Tablet,1249,5.0,2022-04-27,Nepal,Debit
+580.0,C101,unknown,,Tablet,N/A,-2.0,2022-12-16,,Debit
+581.0,,,,Laptop,938,,13/40/2023,,credit card
+582.0,,unknown,M,laptop,,-2.0,2022-03-31,USA,Debit
+583.0,,30,Female,Headphones,-99,,2024-05-12,,
+584.0,,unknown,F,Laptop,-99,,2023-05-12,,credit card
+585.0,,unknown,Male,Tablet,66,,2024-05-18,India,
+586.0,C75,unknown,F,laptop,N/A,2.0,13/40/2023,India,Cash
+587.0,,unknown,Male,Headphones,,,2022-01-22,,Debit
+588.0,C113,-1,female,PHONE,N/A,-2.0,2024-01-11,Nepal,Cash
+589.0,,,,PHONE,N/A,0.0,2022-07-24,Nepal,Credit Card
+590.0,,-1,female,Laptop,,-2.0,2023-11-25,,
+,,45,female,Phone,-99,-2.0,2022-12-15,,Credit Card
+592.0,,27,,Laptop,N/A,1.0,2024-03-11,,Credit Card
+593.0,,-1,,Laptop,,-2.0,2023-12-27,India,credit card
+594.0,C26,,M,,332,,2023-03-02,USA,Debit
+595.0,,-1,Male,Tablet,N/A,0.0,2022-06-05,India,credit card
+596.0,,unknown,F,,,,2022-05-30,,
+597.0,,unknown,Female,Headphones,N/A,0.0,13/40/2023,,
+598.0,,,,PHONE,,-2.0,2023-06-25,United States,credit card
+599.0,,unknown,,Tablet,N/A,-2.0,13/40/2023,us,credit card
+600.0,C190,,Female,Laptop,,-2.0,2024-02-15,USA,Credit Card
+601.0,,-1,M,PHONE,915,-2.0,2022-09-23,us,Credit Card
+,C167,,female,PHONE,N/A,0.0,2024-04-04,India,
+603.0,,-1,M,Tablet,-99,0.0,2022-04-18,India,Debit
+604.0,,-1,,Headphones,893,1.0,2023-03-12,Nepal,Debit
+605.0,,unknown,female,laptop,N/A,,2023-10-14,Nepal,credit card
+606.0,C107,-1,F,PHONE,-99,5.0,2023-12-13,Nepal,Credit Card
+607.0,,unknown,Male,Laptop,,0.0,2022-05-01,us,Cash
+608.0,C8,unknown,Male,Tablet,-99,,2022-01-03,us,Credit Card
+609.0,,,female,Headphones,N/A,0.0,2024-02-20,,credit card
+610.0,,,Male,,N/A,0.0,2023-02-09,USA,credit card
+611.0,C166,28,female,PHONE,,5.0,2023-10-22,United States,
+612.0,C194,-1,F,laptop,88,0.0,2022-01-20,United States,Debit
+613.0,,,F,laptop,N/A,-2.0,2023-03-24,USA,
+614.0,C66,25,female,Phone,-99,-2.0,13/40/2023,us,credit card
+615.0,,-1,Male,PHONE,,4.0,2022-11-24,us,Cash
+616.0,C31,-1,female,laptop,N/A,,2022-04-28,us,credit card
+617.0,,unknown,,Phone,,5.0,2022-09-10,,Debit
+618.0,,-1,Female,Tablet,-99,,2023-07-23,USA,credit card
+619.0,,-1,Male,Laptop,,-2.0,2024-05-09,us,Debit
+620.0,,-1,,laptop,1203,3.0,2023-02-09,,Debit
+621.0,,,,Tablet,,-2.0,2022-09-09,us,Cash
+622.0,,-1,,Laptop,N/A,1.0,2023-11-20,India,credit card
+623.0,C138,68,female,Laptop,N/A,-2.0,2024-04-12,India,Cash
+624.0,,18,F,Tablet,N/A,0.0,13/40/2023,us,Cash
+625.0,,-1,Female,Headphones,793,,2023-12-22,United States,Credit Card
+626.0,,,female,laptop,-99,0.0,2023-11-07,,
+627.0,,26,Female,Tablet,-99,-2.0,2022-07-16,USA,
+628.0,,47,F,PHONE,1428,,2024-05-14,us,Credit Card
+629.0,,41,,Phone,,,13/40/2023,United States,Cash
+630.0,C147,-1,,Headphones,-99,0.0,2022-12-04,,Credit Card
+,C111,,M,Phone,N/A,-2.0,13/40/2023,us,
+632.0,,unknown,Male,PHONE,964,1.0,2022-02-04,,Credit Card
+633.0,,,female,PHONE,934,1.0,13/40/2023,,credit card
+634.0,,32,F,Headphones,N/A,5.0,2022-12-14,,Credit Card
+635.0,,30,Male,Laptop,1268,0.0,2023-08-10,India,Cash
+636.0,,unknown,Female,Phone,331,0.0,2022-11-16,India,Cash
+637.0,C139,unknown,M,laptop,,3.0,2023-06-15,,Debit
+638.0,,unknown,M,Phone,-99,-2.0,2022-07-13,,credit card
+639.0,,,female,Tablet,,2.0,2023-04-11,USA,credit card
+640.0,,-1,F,laptop,-99,-2.0,2024-04-06,United States,credit card
+641.0,,18,M,Laptop,1186,-2.0,2023-03-27,India,Cash
+,C8,,Female,Phone,-99,0.0,2022-07-02,United States,Cash
+643.0,,unknown,,,,-2.0,2023-04-13,,Cash
+644.0,,45,Male,Phone,-99,,2023-12-13,India,credit card
+645.0,C63,-1,female,Tablet,,2.0,2023-10-07,,Debit
+646.0,,31,F,,1408,,2024-02-09,,
+647.0,,,,Tablet,N/A,,2022-10-02,,
+648.0,C54,unknown,Female,Headphones,,,2023-08-09,,Cash
+649.0,C22,66,M,Headphones,,2.0,2023-04-22,us,credit card
+650.0,,unknown,M,Tablet,833,,2022-08-28,USA,Cash
+651.0,,50,M,Phone,251,-2.0,2022-02-09,us,Debit
+652.0,,,Female,PHONE,-99,-2.0,2022-01-09,us,Cash
+653.0,,70,F,PHONE,-99,0.0,2022-08-21,United States,credit card
+654.0,,unknown,,,,-2.0,2024-05-16,,credit card
+655.0,,,Female,laptop,,,2024-04-09,us,Cash
+656.0,,unknown,,laptop,,5.0,2023-08-05,United States,Debit
+657.0,,unknown,F,Phone,850,,2022-07-12,us,
+658.0,,-1,Male,PHONE,-99,,2022-01-28,USA,credit card
+659.0,,60,F,Laptop,804,-2.0,2024-05-30,Nepal,Debit
+660.0,,unknown,,Laptop,-99,0.0,2022-11-14,,credit card
+661.0,,-1,female,PHONE,N/A,0.0,2022-01-08,Nepal,Credit Card
+662.0,C155,,female,Headphones,N/A,5.0,13/40/2023,,credit card
+663.0,,-1,F,Phone,N/A,,2023-11-06,India,Credit Card
+664.0,C12,,,laptop,647,,2023-02-26,India,Credit Card
+665.0,C20,,F,Headphones,,2.0,13/40/2023,,credit card
+666.0,,unknown,Male,Laptop,563,-2.0,2023-11-18,Nepal,credit card
+667.0,,unknown,Female,Headphones,-99,2.0,2023-09-14,us,Credit Card
+668.0,C101,22,,Tablet,N/A,0.0,2022-08-10,,
+669.0,C179,58,F,PHONE,N/A,1.0,2022-02-19,,Debit
+670.0,C96,30,Male,Headphones,107,0.0,2023-11-28,United States,Credit Card
+671.0,C171,-1,Male,Headphones,1099,-2.0,2023-07-30,India,Debit
+672.0,,-1,Female,Laptop,,2.0,2023-02-16,USA,credit card
+673.0,C57,,,laptop,805,0.0,2023-02-25,India,credit card
+674.0,,-1,M,Laptop,,0.0,2022-12-07,,Cash
+675.0,,,Male,laptop,N/A,0.0,2023-05-31,USA,Debit
+,C195,-1,,Headphones,548,0.0,2023-01-19,United States,Debit
+677.0,C165,unknown,,Tablet,,3.0,2023-06-18,Nepal,Cash
+678.0,,,Female,Phone,1154,0.0,2023-09-15,India,Cash
+679.0,C162,unknown,Male,Phone,-99,0.0,2022-04-04,India,Debit
+680.0,,unknown,M,Phone,-99,0.0,2023-09-13,us,
+681.0,C163,unknown,Male,Tablet,N/A,,2023-03-28,India,credit card
+682.0,C124,unknown,F,,,0.0,2023-07-21,us,credit card
+683.0,,unknown,Male,Tablet,N/A,0.0,13/40/2023,,
+684.0,,unknown,F,PHONE,N/A,-2.0,2023-10-19,USA,credit card
+685.0,,-1,Female,,,,2023-10-13,,Credit Card
+686.0,,-1,F,Laptop,790,-2.0,2023-09-12,,Debit
+687.0,,-1,Male,Laptop,N/A,4.0,2023-06-15,Nepal,Debit
+688.0,,unknown,female,Tablet,892,-2.0,2024-04-13,,Debit
+689.0,,37,Female,,1057,1.0,2024-03-03,India,credit card
+690.0,,-1,M,Phone,-99,,2022-07-06,USA,credit card
+691.0,C55,30,,Phone,,,2023-10-04,USA,Debit
+692.0,,,Male,Tablet,-99,,2023-11-20,USA,Credit Card
+693.0,,55,Male,Phone,1119,-2.0,2023-05-13,us,
+694.0,,,Female,Tablet,N/A,4.0,2022-12-31,,Credit Card
+,,-1,Male,laptop,,-2.0,2023-04-08,,credit card
+696.0,C170,,Male,PHONE,787,,2022-08-28,Nepal,
+697.0,,48,,Headphones,-99,2.0,2022-05-11,USA,Cash
+698.0,,unknown,Male,Headphones,-99,0.0,2022-06-24,,Credit Card
+699.0,C184,,F,,-99,,2023-11-18,United States,
+700.0,C126,,Female,laptop,1280,,2024-01-05,,credit card
+701.0,,-1,Female,Tablet,,1.0,2022-04-02,India,Debit
+702.0,,-1,M,Headphones,1231,3.0,2023-08-28,,credit card
+703.0,,-1,female,PHONE,-99,,2022-01-10,Nepal,Cash
+704.0,C76,unknown,Female,laptop,-99,-2.0,2022-11-13,,Credit Card
+705.0,,-1,F,Tablet,N/A,-2.0,2022-06-06,United States,Debit
+706.0,C14,unknown,M,,-99,,2022-12-12,Nepal,Cash
+707.0,C101,,M,PHONE,N/A,0.0,2022-11-28,India,Credit Card
+708.0,,-1,female,Phone,N/A,0.0,2022-08-03,,Debit
+709.0,,64,,,N/A,0.0,13/40/2023,Nepal,Debit
+710.0,,,female,Headphones,N/A,2.0,2022-05-02,Nepal,Cash
+711.0,,unknown,,,1423,,2022-10-09,Nepal,Cash
+,C30,unknown,,PHONE,-99,,2022-10-08,USA,
+713.0,,unknown,M,laptop,306,3.0,2024-01-01,,
+714.0,C180,unknown,Male,laptop,1247,2.0,2022-07-05,,Debit
+,,25,Female,laptop,-99,-2.0,2024-05-21,USA,Credit Card
+716.0,,unknown,,Laptop,,-2.0,2023-11-06,United States,
+717.0,,-1,,Laptop,1407,2.0,2022-07-12,,Debit
+718.0,,,M,Phone,N/A,-2.0,2022-09-24,United States,credit card
+719.0,,-1,female,Phone,,-2.0,2023-08-01,,
+720.0,C108,unknown,F,Laptop,-99,-2.0,2022-05-08,,
+721.0,,,M,,-99,-2.0,13/40/2023,United States,credit card
+722.0,C32,,female,,1052,-2.0,2023-12-19,us,
+723.0,C26,,F,Phone,N/A,0.0,13/40/2023,India,Debit
+724.0,,,Male,PHONE,,,2023-12-25,Nepal,Cash
+725.0,,unknown,female,PHONE,,-2.0,2023-02-21,,Credit Card
+726.0,,33,Female,laptop,167,,2024-04-07,Nepal,
+727.0,,49,F,Laptop,-99,,2023-12-21,us,Debit
+728.0,,61,female,Headphones,-99,2.0,2023-01-11,India,Cash
+729.0,,-1,M,Laptop,-99,5.0,2022-10-25,us,Cash
+730.0,,unknown,Female,Tablet,1366,,2022-02-28,India,credit card
+731.0,C91,,,Phone,,1.0,2023-03-18,USA,
+732.0,,unknown,Male,Phone,,,2023-02-09,us,credit card
+733.0,,unknown,,,-99,-2.0,2024-02-05,us,Debit
+734.0,C73,unknown,F,PHONE,728,0.0,2023-05-06,us,Credit Card
+735.0,,-1,M,,N/A,2.0,2022-04-21,United States,Debit
+736.0,,33,,,N/A,5.0,2023-03-21,us,credit card
+737.0,C110,-1,,laptop,-99,3.0,2024-06-03,,Debit
+738.0,C110,48,,PHONE,-99,0.0,2022-08-23,Nepal,Credit Card
+739.0,C50,45,female,Phone,236,,2023-06-22,,Debit
+740.0,,unknown,,Laptop,673,-2.0,2022-10-15,,credit card
+741.0,C13,20,Male,PHONE,-99,,2022-10-14,USA,credit card
+742.0,,,Male,Laptop,1420,0.0,2022-12-06,,Cash
+743.0,,,Female,PHONE,-99,,2022-03-31,United States,
+744.0,,-1,Female,PHONE,962,-2.0,2022-11-05,,Debit
+745.0,C40,-1,F,laptop,,,2023-10-07,Nepal,Credit Card
+746.0,,68,Female,laptop,-99,3.0,13/40/2023,,Debit
+747.0,,61,Female,Headphones,N/A,,2023-02-15,United States,Debit
+,C147,55,female,Headphones,,0.0,2022-10-31,India,Credit Card
+749.0,,,Male,PHONE,,-2.0,2024-06-13,,Debit
+750.0,,25,,Tablet,,3.0,2023-12-24,us,Debit
+751.0,,38,,,,-2.0,2022-06-30,USA,
+752.0,,unknown,,Tablet,-99,0.0,2022-11-29,India,credit card
+753.0,,unknown,M,Phone,1031,0.0,2023-04-16,,Debit
+754.0,,,Male,Tablet,-99,0.0,2022-03-13,Nepal,Debit
+755.0,,-1,,,74,,2022-01-22,USA,Credit Card
+756.0,C198,-1,,laptop,77,-2.0,2024-05-23,United States,Debit
+757.0,,-1,M,Tablet,-99,2.0,2023-07-11,,
+758.0,C12,,Male,laptop,-99,0.0,2022-01-25,Nepal,Debit
+759.0,C74,unknown,,PHONE,N/A,2.0,2022-08-18,us,Cash
+760.0,C86,41,Male,laptop,-99,-2.0,2023-09-07,Nepal,Debit
+761.0,,,M,Laptop,N/A,-2.0,2024-04-10,,Credit Card
+762.0,,,Female,Headphones,N/A,1.0,2023-08-15,,Cash
+763.0,C83,unknown,M,Tablet,N/A,,2023-09-09,us,Debit
+764.0,C168,unknown,female,Headphones,N/A,0.0,13/40/2023,,credit card
+765.0,,-1,,Laptop,,0.0,13/40/2023,India,credit card
+766.0,C29,,Female,Tablet,-99,,2022-09-06,United States,Credit Card
+767.0,,-1,F,PHONE,N/A,3.0,2023-12-20,India,Credit Card
+768.0,C153,-1,M,Phone,-99,1.0,2023-08-06,Nepal,Debit
+769.0,,,F,Headphones,N/A,-2.0,2022-04-24,,Credit Card
+770.0,,28,F,,N/A,-2.0,2023-08-09,,Debit
+771.0,,unknown,Female,PHONE,N/A,5.0,2022-08-13,,
+772.0,,unknown,M,PHONE,N/A,0.0,2022-02-25,,credit card
+773.0,C28,,female,,737,-2.0,2022-06-16,USA,Debit
+774.0,,-1,,Laptop,,1.0,2023-08-01,Nepal,Credit Card
+,,,M,Headphones,-99,,2024-01-14,United States,Credit Card
+776.0,,-1,Male,laptop,N/A,5.0,2022-10-25,,credit card
+777.0,C161,-1,Female,,-99,-2.0,2023-04-04,us,Cash
+778.0,C111,unknown,Female,Phone,1300,,2022-04-10,United States,Cash
+779.0,,unknown,M,Phone,-99,-2.0,2023-08-14,USA,Credit Card
+780.0,,unknown,M,,-99,,2022-02-10,us,credit card
+781.0,,unknown,M,laptop,,3.0,2023-11-30,Nepal,Cash
+782.0,C175,57,,,551,2.0,2022-10-25,India,credit card
+783.0,,47,M,Headphones,N/A,1.0,2022-07-04,Nepal,credit card
+784.0,C85,,female,Headphones,N/A,-2.0,13/40/2023,United States,credit card
+785.0,,54,female,,828,,2023-04-30,United States,Credit Card
+786.0,,,,Phone,-99,-2.0,13/40/2023,,credit card
+787.0,C135,,Female,,160,-2.0,2024-02-11,United States,Cash
+788.0,,-1,,Headphones,N/A,0.0,2022-03-21,India,
+789.0,,,Male,Phone,-99,-2.0,2022-04-27,,credit card
+790.0,C185,-1,,Headphones,1358,0.0,2024-02-03,Nepal,
+791.0,,,Female,Phone,1441,-2.0,2022-01-17,us,
+792.0,,unknown,F,Headphones,,,2023-06-20,us,Credit Card
+793.0,,-1,female,laptop,N/A,-2.0,2024-05-15,,credit card
+794.0,,24,Male,Laptop,1380,,2022-04-17,,
+795.0,,46,,Tablet,-99,,2023-07-19,United States,credit card
+796.0,,unknown,Male,Tablet,,-2.0,2022-11-11,,credit card
+797.0,,20,Male,Phone,,0.0,2023-08-09,United States,
+798.0,,unknown,Male,,N/A,,2024-01-16,us,
+799.0,C60,-1,female,Laptop,N/A,0.0,2022-11-27,USA,Credit Card
+800.0,,27,female,PHONE,1163,,2022-01-26,United States,credit card
